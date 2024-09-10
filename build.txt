@@ -1,0 +1,3 @@
+displayName = Trinity of Gods
+author = 4MaRS
+version = 0.1
