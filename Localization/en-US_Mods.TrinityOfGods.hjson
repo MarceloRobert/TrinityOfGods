@@ -1,1 +1,9 @@
 
+Items: {
+	ExampleCard: {
+		DisplayName: Example Card
+		Tooltip: ""
+	}
+}
+
+Projectiles.ExampleCardProjectile.DisplayName: Example Card Projectile
